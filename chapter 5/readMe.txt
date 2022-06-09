@@ -1,0 +1,1 @@
+In this chapter I added player factory and UI but there is no game controller yet
